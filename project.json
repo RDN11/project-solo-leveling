@@ -1,0 +1,22 @@
+{
+	"description" : "Solo Leveling Live Walpaper",
+	"file" : "Solo Leveling Live Wallpaper.mp4",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.9607843137254902 0.4470588235294118 0.9607843137254902"
+			}
+		}
+	},
+	"preview" : "preview.gif",
+	"tags" : [ "Manga" ],
+	"title" : "Solo Leveling Live Wallpaper",
+	"type" : "video",
+	"version" : 0
+}
